@@ -6,3 +6,8 @@
 |:--:|:--|--:|
 |David|Seoul Mapo 213 |*Black and white*|
 |Joshua|Pusan Namcheon #326 - 2| wide big eye glasses|
+
+add contributor
+and  remove contributor 
+repository settings -> contributors -> delete
+
